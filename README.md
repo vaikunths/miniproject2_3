@@ -15,5 +15,5 @@ Hi.
 - main
 - feature
 
-## Resolve merge conflicts
-- Resolve feature branch conflicts
+## Merge Conflicts
+- This is from feature branch
